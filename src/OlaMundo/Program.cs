@@ -6,7 +6,7 @@ namespace Course
         static void Main(string[] args)
         {
             
-            DadosBancario.DadoPoupanca.DadosBancario();
+            CadastroProdutos.FormCadastro.CadastrandoProdutos();
         }
     }
 }
